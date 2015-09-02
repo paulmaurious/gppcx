@@ -1,2 +1,1 @@
-# gppcx
-Graphical Pretty Printer for C++99
+[Read more words!](docs/readme.pdf)
