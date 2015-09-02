@@ -1,2 +1,2 @@
 # gppcx
-Graphical Pretty Print C++ Compiler
+Graphical Pretty Printer for C++99
